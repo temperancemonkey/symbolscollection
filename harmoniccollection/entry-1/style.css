@@ -1,0 +1,38 @@
+.homebutton{
+    position: absolute;
+    justify-content: left;
+    width: 10%;
+}
+
+
+.glory{
+    display: flex;
+    left: 50px;
+    width: 50%;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imageswitch{
+    position: absolute;
+
+}
+
+/* .flory{
+    position: absolute;
+    width: 50%;
+} */
+ 
+
+.all{
+    position: absolute;
+    top: -60%;
+    z-index: -1;
+    width: 300px;
+}
+
+

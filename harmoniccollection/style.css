@@ -1,0 +1,56 @@
+/* .face{
+    display: flex;
+    width: 10%;
+    align-items: left;
+} */
+body{
+    overflow: hidden;
+}
+
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin-top: -400px;
+}
+
+
+.symbols{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    top: 35px;
+    left: 55vw;
+}
+
+
+ul{
+    color: black;
+    list-style: none;
+    text-decoration: none;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+#menu-products{
+    text-decoration: none;
+}
+
+#dropdown-products {
+    display: none;
+  }
+  
+  #menu-products:hover #dropdown-products {
+    display: block;
+    color: cornflowerblue;
+  }
+
+
+
+
+
+
+    
